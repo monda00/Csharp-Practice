@@ -1,0 +1,12 @@
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.deps.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.runtimeconfig.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.runtimeconfig.dev.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.csprojAssemblyReference.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.AssemblyInfoInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.AssemblyInfo.cs
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.csproj.CoreCompileInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.genruntimeconfig.cache
