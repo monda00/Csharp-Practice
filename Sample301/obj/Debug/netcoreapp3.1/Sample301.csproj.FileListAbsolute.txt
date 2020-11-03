@@ -1,0 +1,12 @@
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.csprojAssemblyReference.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.AssemblyInfoInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.AssemblyInfo.cs
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.csproj.CoreCompileInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/bin/Debug/netcoreapp3.1/Sample301.deps.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/bin/Debug/netcoreapp3.1/Sample301.runtimeconfig.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/bin/Debug/netcoreapp3.1/Sample301.runtimeconfig.dev.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/bin/Debug/netcoreapp3.1/Sample301.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/bin/Debug/netcoreapp3.1/Sample301.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample301/obj/Debug/netcoreapp3.1/Sample301.genruntimeconfig.cache
