@@ -1,0 +1,12 @@
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/bin/Debug/netcoreapp3.1/Sample601.deps.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/bin/Debug/netcoreapp3.1/Sample601.runtimeconfig.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/bin/Debug/netcoreapp3.1/Sample601.runtimeconfig.dev.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/bin/Debug/netcoreapp3.1/Sample601.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/bin/Debug/netcoreapp3.1/Sample601.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.csprojAssemblyReference.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.AssemblyInfoInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.AssemblyInfo.cs
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.csproj.CoreCompileInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/Sample601/obj/Debug/netcoreapp3.1/Sample601.genruntimeconfig.cache
