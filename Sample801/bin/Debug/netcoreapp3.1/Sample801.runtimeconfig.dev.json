@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/onda/.dotnet/store/|arch|/|tfm|",
+      "/Users/onda/.nuget/packages"
+    ]
+  }
+}
