@@ -1,0 +1,12 @@
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/bin/Debug/netcoreapp3.1/SampleEX501.deps.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/bin/Debug/netcoreapp3.1/SampleEX501.runtimeconfig.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/bin/Debug/netcoreapp3.1/SampleEX501.runtimeconfig.dev.json
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/bin/Debug/netcoreapp3.1/SampleEX501.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/bin/Debug/netcoreapp3.1/SampleEX501.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.csprojAssemblyReference.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.AssemblyInfoInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.AssemblyInfo.cs
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.csproj.CoreCompileInputs.cache
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.dll
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.pdb
+/Users/onda/Documents/programming/csharp/Csharp-Practice/SampleEX501/obj/Debug/netcoreapp3.1/SampleEX501.genruntimeconfig.cache
